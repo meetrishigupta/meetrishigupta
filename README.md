@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node, API Fetching**
 
-- 👨‍💻 All of my projects are available at [https://meetrishigupta-meetrishigupta.vercel.app/](https://meetrishigupta-meetrishigupta.vercel.app/)
+- 👨‍💻 Checkout my Portfolio at [https://meetrishigupta-meetrishigupta.vercel.app/](https://meetrishigupta-meetrishigupta.vercel.app/)
 
 - 💬 Ask me about **Something I don't know**
 
