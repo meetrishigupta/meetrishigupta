@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishu.sic1608@gmail.com**
 
-- 📄 Know about my experiences [https://aqua-odette-50.tiiny.site](https://aqua-odette-50.tiiny.site)
+- 📄 Know about my experiences [My Resume](https://tinyurl.com/rishic-v)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
