@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetrishigupta&label=Profile%20views&color=0e75b6&style=flat" alt="meetrishigupta" /> </p>
 
-- 🌱 I’m currently learning **React, Node, API Fetching**
+- 🌱 I’m currently learning **Redux Toolkit, Node, RestAPI & NextJS**
 
 - 👨‍💻 Checkout my Portfolio at [https://meetrishigupta-meetrishigupta.vercel.app/](https://meetrishigupta-meetrishigupta.vercel.app/)
 
