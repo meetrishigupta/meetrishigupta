@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux Toolkit, Node, RestAPI & NextJS**
 
-- 👨‍💻 Checkout my Portfolio at [https://meetrishigupta-meetrishigupta.vercel.app/](https://meetrishigupta-meetrishigupta.vercel.app/)
+- 👨‍💻 Checkout my Portfolio at [https://rishigupta-portfolio.vercel.app](https://meetrishigupta-meetrishigupta.vercel.app/)
 
 - 💬 Ask me about **Something I don't know**
 
