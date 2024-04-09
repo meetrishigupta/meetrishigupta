@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishu.sic1608@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://tinyurl.com/rishic-v](https://drive.google.com/file/d/14TRnBc0QTOfifChza3lcB3XA2Ywvm3Ts/view?usp=sharing])
+- 📄 Know about my experiences [My Resume]([https://tinyurl.com/rishic-v](https://drive.google.com/file/d/19PUdihpnBOjK1RzXXe_VE2i96E2QlZs-/view])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
